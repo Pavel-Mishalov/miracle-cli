@@ -64,7 +64,7 @@ While the server is running, any changes you make to your HTML, Sass, or JavaScr
 
 ### Build
 
-To build your app for production, use `foundation build`.
+To build your app for production, use `miracle build`.
 
 ```bash
 miracle build
