@@ -1,6 +1,6 @@
 {
   "name": "miracle-cli",
-  "version": "1.0.35",
+  "version": "1.1.0",
   "description": "Command-line interface for the Miracle project.",
   "keywords": [
     "miracle",
